@@ -1,0 +1,3 @@
+*git push error 생겼을 경우*
+-원격 저장소와 로컬 저장소가 동기화 되지 않았기 때문
+git pull --rebase origin master 실행 후 다시 시도하면 됨.
